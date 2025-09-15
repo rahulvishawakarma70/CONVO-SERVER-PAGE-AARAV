@@ -129,7 +129,7 @@ body{
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">𝐕𝐀𝐌𝐏𝐈𝐑𝐄 𝐑𝐔𝐋𝐄𝐗</h1>
+    <h1 class="mt-3">[[ 🕉️ 𝐀𝐀𝐑𝐀𝐕 𝐊𝐀𝐓𝐓𝐀𝐑 𝐇𝐈𝐍𝐃𝐔 🕉️ ]] </h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -145,7 +145,7 @@ body{
     </form>
   </div>
   <footer class="footer">
-    <p>💀 Powered By Vampire Rulex</p>
+    <p>🕉️ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐀𝐚𝐫𝐚𝐯 𝐤𝐚𝐭𝐭𝐚𝐫 🕉️ </p>
     <p>😈Any One Cannot Beat me </p>
   </footer>
 </body>
